@@ -5,7 +5,7 @@ flake8==3.5.0
 gitdb2==2.0.3
 GitPython==2.1.7
 gunicorn==19.7.1
-idna==2.6
+idna==3.7
 pytz==2017.3
 requests==2.18.4
 smmap2==2.0.3
