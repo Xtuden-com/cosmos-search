@@ -9,8 +9,9 @@ idna==2.6
 pytz==2017.3
 requests==2.18.4
 smmap2==2.0.3
-urllib3==1.22
+urllib3==2.5.0
 pep8==1.7.1
 python-decouple==3.1
 google-api-python-client
 newsapi-python
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
